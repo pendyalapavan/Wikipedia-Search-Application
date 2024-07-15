@@ -15,7 +15,7 @@ The user types a search query into the input field and presses the "Enter" key.
 A loading spinner is displayed while the application fetches data from the Wikipedia search API.
 The search results are displayed on the page, each with a title, link, and description.
 Code Overview
-HTML Elements
+HTML Elements 
 searchInputEl: Input field where the user types the search query.
 searchResultsEl: Container where search results are displayed.
 spinnerEl: Loading spinner element that is shown while data is being fetched.
